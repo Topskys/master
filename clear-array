@@ -16,3 +16,6 @@ arr.length=0
 //赋值为[]
 arr=[]
 console.log(arr):
+
+
+
